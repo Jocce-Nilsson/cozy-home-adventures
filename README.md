@@ -4,6 +4,8 @@
 
 **URL**: https://lovable.dev/projects/21967218-f208-4ba6-9072-8a0d7a245cfa
 
+**Published to**: https://cozy-home-adventures.lovable.app/ 
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
